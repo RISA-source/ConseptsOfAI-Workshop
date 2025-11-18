@@ -1,1 +1,1 @@
-# ConseptsOfAI-Workshop
+# Concepts_Of_AI-WorkSheets
